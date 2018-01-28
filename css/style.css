@@ -394,9 +394,15 @@ label{
 	  line-height: 1.7em;
 	  }
 	.slide-bottom-grid {
-	  padding: 0 0 0 27px;
+	  padding: 0 27px 0 27px;
 	  border-left: 6px solid #fff200;
 	}
+	
+.side-2 {
+	  padding: 0 27px 0 27px;
+	  border-left: 6px solid #fff200;
+	}
+
 /*--services--*/
 .service-section {
   background: #F4F4F4;
