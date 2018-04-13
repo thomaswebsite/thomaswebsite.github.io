@@ -45,7 +45,10 @@ label{
   padding: 3.2em 0 0 0;
 }
 .logo {
-	float:left;
+	float:right;
+  margin-top: 2.4em;
+  margin-right: 2.4em;
+
 }
 .logo  a h1{
   font-size: 2.7em;
@@ -195,7 +198,7 @@ label{
 }
 .callbacks_container {
   position: relative;
-  float: left;
+  float: right;
   width: 100%;
 }
 .callbacks {
@@ -397,11 +400,11 @@ label{
 	  padding: 0 27px 0 27px;
 	  border-left: 6px solid #fff200;
 	}
-	
-.side-2 {
-	  padding: 0 27px 0 27px;
-	  border-right: 6px solid #fff200;
-	}
+
+  .side-2 {
+    padding: 0 27px 0 27px;
+    border-right: 6px solid #fff200;
+  }
 
 /*--services--*/
 .service-section {
@@ -711,9 +714,10 @@ font-size:3.3em;
 }
 .member-grids p {
   color: #34495E;
+  text-align: center;
   font-weight: 400;
-  font-size: 0.9em;
-  line-height: 1.7em;
+  font-size: 1.1em;
+  line-height: 0.4em;
   padding:2em;
   border:1px solid #34495E;
 }
